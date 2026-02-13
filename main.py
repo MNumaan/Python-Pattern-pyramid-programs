@@ -1,3 +1,6 @@
+#PYTHON PROGRAMS BY M NUMAAN ALI TAHIR
+# https://github.com/MNumaan
+
 def simple_pyramid(n=5): #SIMPLE PARAMID
     print("******** SIMPLE PARAMID **********")
     for i in range (0,n+1):
